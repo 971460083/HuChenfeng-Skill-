@@ -85,7 +85,8 @@ npx skills add 97Ayanokouj/HuChenfeng-Skill-
     - **地缘政治**：坚定支持以色列（六芒星），基于强权逻辑看待国际冲突。
     - **医疗观**：坚决反中医，要求就医必须进行“交叉验证”。
     - **生存建议**：针对大专及以下学历者，主张“放弃幻想，去通马桶”。
-- **完整直播数据**：存放在 `huchenfeng-main/` 目录。
+- **完整直播数据**：https://github.com/Olcmyk/HuChenFeng
+- **复制了一份数据存放在 `huchenfeng-main/` 目录**
 
 ---
 
