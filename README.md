@@ -48,7 +48,7 @@
 ## 安装
 
 ```bash
-npx skills add /HuChenfeng-Skill-
+npx skills add 97Ayanokouj/HuChenfeng-Skill-
 ```
 
 然后在 Claude Code 的聊天里携带以下关键字触发：
